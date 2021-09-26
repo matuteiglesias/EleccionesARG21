@@ -12,7 +12,3 @@ Este repositorio tiene colgados los archivos zip oficiales (~14/09/2021).
 Correr el script extractor_zips para que se extraigan correctamente los archivos colgados en https://argentina.gob.ar a csv.
 
 `$ python extractor_zips.py`
-
-
-
-22/09: *Existe problemita de parseo a resolver en algunas filas de ciertas provincias (Bs As, Mendoza, Corrientes, ...)*
